@@ -1,0 +1,7 @@
+obj = p02.o
+
+p02: ${obj}
+	g++ -o p02 ${obj}
+
+p02.o: p02.cpp
+	g++ -g -c p02.cpp

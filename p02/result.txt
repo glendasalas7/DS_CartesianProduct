@@ -1,0 +1,8 @@
+A = {Pikachu, Bulbasaur, Charmander, GottaCatchEmAll}
+B = {901, 872, 613}
+
+AxB = { (Pikachu, 901),  (Pikachu, 872),  (Pikachu, 613)
+	(Bulbasaur, 901),  (Bulbasaur, 872),  (Bulbasaur, 613)
+	(Charmander, 901),  (Charmander, 872),  (Charmander, 613)
+	(GottaCatchEmAll, 901),  (GottaCatchEmAll, 872),  (GottaCatchEmAll, 613)
+	}
